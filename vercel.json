@@ -12,5 +12,6 @@
   "routes": [
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "client/index.html" }
-  ]
+  ],
+  "mongodb": "mongodb+srv://nextgenadmin:<NextGen12345>@cluster0.abc123.mongodb.net/?retryWrites=true&w=majority"
 }
